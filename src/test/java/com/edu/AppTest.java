@@ -9,6 +9,6 @@ public class AppTest {
     public void testApp() {
         System.out.println("class AppTest; method testApp()");
         //
-        Assert.assertTrue(true);
+        Assert.assertTrue(false);
     }
 }
